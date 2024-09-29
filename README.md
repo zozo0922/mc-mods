@@ -1,5 +1,4 @@
-# mc-mods
-mc mods
+# Minecraft-Mods之關於我蛋雕gt去擁抱ic2後包一個嘔心瀝血的模組包這檔事是否搞錯甚麼
 
 ## 模組介紹
 
