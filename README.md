@@ -30,6 +30,3 @@
 * 本工具僅供個人學習與研究使用。
 * 使用漫畫下載器時，請確保您的網路環境穩定。
 * 啾咪
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
