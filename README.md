@@ -18,7 +18,6 @@
     1.直接看著用吧
     2.如果以下架會顯示0卷(ex:無職轉生)
 
-
 ### 3. TXT to EPUB Tool
 將輕小說文庫的 TXT 文字檔轉換為 iOS Books 可閱讀的 EPUB 電子書。
 
